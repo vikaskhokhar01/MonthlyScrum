@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'buy-and-sell';
+  title = 'Monthly SCRUM';
+  backgroundImage : string = 'assets/background.jpg';
 }
